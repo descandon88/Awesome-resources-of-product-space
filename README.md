@@ -1,4 +1,4 @@
-# Awesome-resources-of-product-space kkk
+# Awesome-resources-of-product-space 
 A collection of resources with product space.
 # Papers
 
