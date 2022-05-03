@@ -1,4 +1,4 @@
-# Resources-of-product-space 
+# Resources-of-product-space and economic complexity
 A collection of resources with product space and economic complexity
 # Papers
 
