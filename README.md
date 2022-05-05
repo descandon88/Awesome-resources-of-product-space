@@ -10,3 +10,5 @@ A collection of resources with product space and economic complexity
 
 1. Economic Complexity in Metropolitan Areas of the United States
 <a href="https://www.brookings.edu/research/growing-cities-that-work-for-all-a-capability-based-approach-to-regional-economic-competitiveness/" target="_blank"> Link </a>
+2. South Africa’s lack of economic complexity is our real problem, and it’s driven by cadre deployment and the unions <a href="https://www.dailymaverick.co.za/article/2021-07-25-south-africas-lack-of-economic-complexity-is-our-real-problem-and-its-driven-by-cadre-deployment-and-the-unions/">Link</a>
+
