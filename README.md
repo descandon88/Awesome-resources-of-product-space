@@ -6,3 +6,7 @@ A collection of resources with product space and economic complexity
 2. The Product Space Conditions the Development of Nations, Hidalgo, Klinger, Hausmann <a href="https://arxiv.org/ftp/arxiv/papers/0708/0708.2090.pdf" target="_blank">Paper</a>
 3. Economic Complexity in Panama: Assessing Opportunities for Productive Diversification, Hausmann, santos and Morales-Arilla <a href="https://www.researchgate.net/publication/318007996_Economic_Complexity_in_Panama_Assessing_Opportunities_for_Productive_Diversification" target="_blank">Paper</a>
 
+# Articles
+
+1. Economic Complexity in Metropolitan Areas of the United States
+<a href=" https://www.brookings.edu/research/growing-cities-that-work-for-all-a-capability-based-approach-to-regional-economic-competitiveness/"> Link </a>
