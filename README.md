@@ -9,4 +9,4 @@ A collection of resources with product space and economic complexity
 # Articles
 
 1. Economic Complexity in Metropolitan Areas of the United States
-<a href=" https://www.brookings.edu/research/growing-cities-that-work-for-all-a-capability-based-approach-to-regional-economic-competitiveness/"> Link </a>
+<a href=" https://www.brookings.edu/research/growing-cities-that-work-for-all-a-capability-based-approach-to-regional-economic-competitiveness/" target="_blank"> Link </a>
