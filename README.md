@@ -12,3 +12,6 @@ A collection of resources with product space and economic complexity
 <a href="https://www.brookings.edu/research/growing-cities-that-work-for-all-a-capability-based-approach-to-regional-economic-competitiveness/" target="_blank"> Link </a>
 2. South Africa’s lack of economic complexity is our real problem, and it’s driven by cadre deployment and the unions <a href="https://www.dailymaverick.co.za/article/2021-07-25-south-africas-lack-of-economic-complexity-is-our-real-problem-and-its-driven-by-cadre-deployment-and-the-unions/">Link</a>
 
+# Videos
+Scholars Seminar | The Past, Present, and Future of Economic Complexity Research, with César Hidalgo <a href="https://www.youtube.com/watch?v=lrr2PFAMPOs" > Video </aZ
+
