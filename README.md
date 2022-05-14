@@ -6,7 +6,7 @@ A collection of resources with product space and economic complexity
 2. The Product Space Conditions the Development of Nations, Hidalgo, Klinger, Hausmann <a href="https://arxiv.org/ftp/arxiv/papers/0708/0708.2090.pdf" target="_blank">Paper</a>
 3. Economic Complexity in Panama: Assessing Opportunities for Productive Diversification, Hausmann, santos and Morales-Arilla <a href="https://www.researchgate.net/publication/318007996_Economic_Complexity_in_Panama_Assessing_Opportunities_for_Productive_Diversification" target="_blank">Paper</a>
 4. The new paradigm of economic complexity <a href="https://www.sciencedirect.com/science/article/pii/S0048733321002420">Paper</a>
-5. Export diversification and economic growth, Heiko Hesse
+5. Export diversification and economic growth, Heiko Hesse <a href=""> Paper</a>
 6. Structural Transformation in Ecuador, Hausmann and Klinger’s (2010)  <a href="https://growthlab.cid.harvard.edu/files/growthlab/files/structural_transformation_in_ecuador.pdf">Paper</a>
 # Articles
 
